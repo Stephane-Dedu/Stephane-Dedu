@@ -1,7 +1,7 @@
 # Stéphane Dedu
 
 **Site Reliability Engineer** (apprentice) at Welcome to the Jungle, Paris
-Master's student in Cloud, Infrastructure & DevOps (Sup de Vinci)
+Master's student in Cloud & Infrastructure
 
 I got into infrastructure from the application side. After a year shipping Python microservices to Kubernetes, I now work on reliability, platform tooling and Kubernetes security.
 
@@ -39,4 +39,4 @@ I moved a mobile app backend from a single public EC2 instance to ECS Fargate be
 ### Experience
 
 - **SRE apprentice**, Welcome to the Jungle (Sep 2026 – present)
-- **Backend developer apprentice**, Swapn (Oct 2025 – Sep 2026): async FastAPI microservices (DDD, hexagonal architecture), PostgreSQL/pgvector, Redis, Celery, LLM agent tooling on AWS Bedrock. I deployed them to Kubernetes with Helm, CI/CD and Prometheus monitoring.
+- **Backend & Agentic developer apprentice**, Swapn (Oct 2025 – Sep 2026): async FastAPI microservices (DDD, hexagonal architecture), PostgreSQL/pgvector, Redis, Celery, LLM agent tooling on AWS Bedrock. I deployed them to Kubernetes with Helm, CI/CD and Prometheus monitoring.
