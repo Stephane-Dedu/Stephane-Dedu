@@ -36,9 +36,6 @@ LLM inference on a GPU Kubernetes cluster on EKS, provisioned with Terraform. Th
 **Fissure: production AWS architecture** (private code, [write-up](https://sdedu.cloud/blog))
 I moved a mobile app backend from a single public EC2 instance to ECS Fargate behind an ALB, with RDS PostgreSQL Multi-AZ in private subnets, all defined in Terraform. Compute cost went from ~$30/month fixed to ~$8–15/month pay-per-use.
 
-**[supply_chain_security](https://github.com/Stephane-Dedu/supply_chain_security)**
-Container supply chain lab covering SBOM generation (SPDX) and scanning in GitHub Actions.
-
 ### Experience
 
 - **SRE apprentice**, Welcome to the Jungle (Sep 2026 – present)
